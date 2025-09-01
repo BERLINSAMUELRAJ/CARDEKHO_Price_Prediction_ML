@@ -129,4 +129,3 @@ Imagine working as a data scientist at CarDekho, tasked with improving the custo
 ![](https://github.com/BERLINSAMUELRAJ/CARDEKHO_Price_Prediction_ML/blob/main/Screenshot%20(92).png)
 ---
 
-This README provides a complete overview of your **CarDekho Used Car Price Prediction** project, making it professional and easy to understand for trainers, peers, or employers.
