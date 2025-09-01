@@ -1,5 +1,7 @@
 # CarDekho - Used Car Price Prediction
 
+![](https://github.com/BERLINSAMUELRAJ/CARDEKHO_Price_Prediction_ML/blob/main/1626342082_cardekho_logo_startuptalky_jpg-1.jpg)
+
 ## Project Overview
 The objective of this project is to develop an accurate, user-friendly machine learning system for predicting the prices of used cars based on various features. The project leverages historical data collected from CarDekho, including details like make, model, year of manufacture, fuel type, transmission, location, and car specifications.  
 
@@ -78,6 +80,9 @@ Imagine working as a data scientist at CarDekho, tasked with improving the custo
 ---
 
 ## Results
+
+![](https://github.com/BERLINSAMUELRAJ/CARDEKHO_Price_Prediction_ML/blob/main/CarDekho-Business-Model-Startuptalky.jpg)
+
 - Functional **Random Forest model** for predicting used car prices.  
 - Streamlit app deployed for real-time prediction.  
 - Comprehensive **EDA and feature analysis** report.  
